@@ -1,0 +1,35 @@
+// MiXINY najlepiej trzymac na samej górze
+@mixin addons {
+    background: gold;
+    border-radius: 25px;
+}
+@mixin color($bgColor){
+    background-color:$bgColor ;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #333;
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 36px;
+    margin: 30px;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    // odanie użycie Mixina
+    @include addons()
+
+}
+.success{
+    @include color(navy)
+}
+.warning{
+    @include color(gold)
+}

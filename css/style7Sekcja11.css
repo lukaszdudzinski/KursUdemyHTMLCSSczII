@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 200px;
+  height: 200px;
+}
+
+body {
+  background-color: #333;
+  font-family: sans-serif;
+  color: #fff;
+  font-size: 36px;
+}
+
+.square {
+  width: 500px;
+  height: 500px;
+  background-color: goldenrod;
+}
+/*# sourceMappingURL=style7Sekcja11.css.map */

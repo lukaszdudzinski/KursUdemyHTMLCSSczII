@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACE,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,KAAK;CAAG;;ADKpB,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,IAAI;EACtB,WAAW,EAAE,UAAU;EACvB,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,IAAI;CAAG;;AAGtB,AAAA,OAAO,CAAC;EACJ,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,SAAS;CAAG",
+    "sources": [
+        "../sass/style7Sekcja11.sass",
+        "../sass/reset7Sekcja11.sass"
+    ],
+    "names": [],
+    "file": "style7Sekcja11.css"
+}

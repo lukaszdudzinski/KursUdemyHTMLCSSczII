@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #fff;
+  background-color: #333333;
+  font-size: 30px;
+  margin: 50px;
+}
+
+div {
+  margin: 50px;
+}
+
+p:first-of-type {
+  color: pink;
+}
+/*# sourceMappingURL=style15Sekcja4.css.map */

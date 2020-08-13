@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 1rem;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+section {
+  height: 30vh;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  color: gold;
+}
+
+h2 {
+  font-size: 2.4rem;
+  color: gold;
+}
+
+h3 {
+  font-size: 1.8rem;
+  color: gold;
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+.odd {
+  background-color: deepskyblue;
+}
+
+.even {
+  background: navy;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  margin: 30px auto;
+  background-color: lime;
+  border: solid black;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=style3Zadanie1.css.map */
